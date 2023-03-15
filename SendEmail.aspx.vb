@@ -9,7 +9,7 @@ Public Class SendEmail
     End Sub
 
     Protected Sub SendEmail(p As String)
-        Dim strTo = "coromanowebmaster@gmail.com"
+        Dim strTo = "yourreceipient@gmail.com"
         Dim strSubject = "SUBJECT"
         Dim strBody = p
 
